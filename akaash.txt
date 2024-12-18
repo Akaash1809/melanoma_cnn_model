@@ -1,0 +1,1 @@
+https://github.com/Akaash1809/melanoma_cnn_model/blob/main/melnoma_detection.ipynb
